@@ -2,4 +2,12 @@ hello JR
 
 hello Chris
 
+how are you doing today?
+
 This should conflict
+
+ Ha Ha!
+
+
+It did, but I fixed it
+
