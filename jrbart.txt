@@ -7,7 +7,12 @@ how are you doing today?
 This should conflict
 
  Ha Ha!
-
+lol
 
 It did, but I fixed it
 
+I'm just typing on the even line numbers
+
+not sure what will happen to the empty lines
+
+but I hope they merge auto-magically
