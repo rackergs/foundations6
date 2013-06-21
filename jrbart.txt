@@ -3,3 +3,7 @@ hello JR
 hello Chris
 
 how are you doing today?
+
+This should conflict
+
+It did, but I fixed it
